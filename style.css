@@ -1,0 +1,26 @@
+.csi{
+    background-color: #000000;
+    border: 10px solid #f2f929;
+    padding: 10px 10px;
+    color: #333;
+    font-family: Arial, sans-serif;
+    border-radius: 5px;
+}
+#tt{
+    color: #f2f929;
+    font-size: 24px;
+    margin-bottom: 10px;
+    background-color: #000000;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+}
+.t{
+    color: #f2f929;
+    /* font-size: 18px;
+    margin-bottom: 10px; */
+    height: 20px;
+    width: 20px;
+    background-color: #ffffff;
+}
